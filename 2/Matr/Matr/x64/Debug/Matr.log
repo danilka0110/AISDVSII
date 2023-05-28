@@ -1,0 +1,3 @@
+﻿  Matr.cpp
+D:\2\Algoritms\2\Matr\Matr\Matr.cpp(39,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Matr.vcxproj -> D:\2\Algoritms\2\Matr\x64\Debug\Matr.exe
